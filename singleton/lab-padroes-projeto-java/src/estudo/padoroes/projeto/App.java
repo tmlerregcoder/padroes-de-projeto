@@ -1,7 +1,7 @@
 package estudo.padoroes.projeto;
 public class App {
     public static void main(String[] args) throws Exception {
-                
+         // Testes relacionados ao Design Pattern Singleton:
         SingletonLazy lazy = SingletonLazy.getInstancia();
         System.out.println(lazy);        
         lazy = SingletonLazy.getInstancia();
