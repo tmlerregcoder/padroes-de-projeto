@@ -9,7 +9,7 @@ package estudo.padoroes.projeto;
 
 public class SingletonEager {
 
-    private static final SingletonEager instancia = new SingletonEager();
+    private static SingletonEager instancia = new SingletonEager();
     private SingletonEager() {
         super();
     }
