@@ -1,4 +1,4 @@
-package estudo.padoroes.projeto;
+package estudo.padoroes.projeto.singleton;
 
 /**
 * Singleton "apressado" (Lazy Singleton)

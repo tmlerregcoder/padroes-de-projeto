@@ -1,4 +1,4 @@
-package estudo.padoroes.projeto;
+package estudo.padoroes.projeto.singleton;
 
 /**
 * Singleton Lazy com Holder 
