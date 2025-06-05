@@ -9,3 +9,17 @@ singleton/lab-padroes-projeto-java/.classpath
 singleton/lab-padroes-projeto-java/.project
 singleton/lab-padroes-projeto-java/.settings/org.eclipse.jdt.core.prefs
 singleton/lab-padroes-projeto-java/.vscode/settings.json
+/.idea/.gitignore
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/strategy/ComportamentoAgressivo.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/strategy/ComportamentoDefensivo.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/strategy/ComportamentoNormal.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/subsistema1/crm/CrmService.class
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/padroes-de-projeto.iml
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/strategy/Robo.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/singleton/SingletonEager.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/singleton/SingletonLazy.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/singleton/SingletonLazyHolder$InstanceHolder.class
+/singleton/lab-padroes-projeto-java/classes/production/lab-padroes-projeto-java/estudo/padoroes/projeto/singleton/SingletonLazyHolder.class
+/.idea/vcs.xml
