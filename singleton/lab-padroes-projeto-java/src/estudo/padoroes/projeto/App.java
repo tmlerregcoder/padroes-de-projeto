@@ -1,5 +1,6 @@
 package estudo.padoroes.projeto;
 
+import estudo.padoroes.projeto.facade.Facade;
 import estudo.padoroes.projeto.singleton.SingletonEager;
 import estudo.padoroes.projeto.singleton.SingletonLazy;
 import estudo.padoroes.projeto.singleton.SingletonLazyHolder;
@@ -7,9 +8,9 @@ import estudo.padoroes.projeto.strategy.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
-         // Testes relacionados ao Design Pattern Singleton:
+        // Testes relacionados ao Design Pattern Singleton:
         SingletonLazy lazy = SingletonLazy.getInstancia();
-        System.out.println(lazy);        
+        System.out.println(lazy);
         lazy = SingletonLazy.getInstancia();
         System.out.println(lazy);
 
@@ -41,5 +42,10 @@ public class App {
         robo.mover();
         robo.mover();
         robo.mover();
+
+
+        // Testes relacionados ao Design Patter Facade:
+        Facade facade = new Facade();
+        facade.migrarCliente("Thiago", "22795570");
     }
 }

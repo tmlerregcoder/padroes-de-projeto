@@ -2,9 +2,9 @@ package estudo.padoroes.projeto.singleton;
 
 /**
  * Singleton "preguiçoso" (Lazy Singleton)
- * 
+ * <p>
  * Chamado de singleton preguiçoso porque a instância é criada apenas quando é realmente necessária.
- * 
+ *
  * @author Thiago Marques
  */
 
